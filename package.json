@@ -11,8 +11,7 @@
     "fs": false
   },
   "dependencies": {
-    "superagent": "7.0.2",
-    "querystring": "0.2.0"
+    "superagent": "7.0.2"
   },
   "devDependencies": {
     "mocha": "^10.2.0",
